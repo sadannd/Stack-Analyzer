@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+matplotlib 
+scikit-learn
+scipy
+tensorflow
+keras
+google-cloud-storage
+flask-cors
